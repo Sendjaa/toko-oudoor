@@ -1,2 +1,2 @@
-# toko-oudoor
+# toko-outdoor
 jual beli peralatan outdoor
